@@ -35,6 +35,13 @@ TODO: Write usage instructions here
 - [ ] Credit waiver form
 - [ ] Disability accommodation form
 
+### Things the site should have
+
+- [ ] End of term checklist
+- [ ] "that page that shows how many spots are in each class and whats left available"
+- [ ] _correct_ faculty offices
+- [ ] Link to website to fill up your card
+
 ## Contributing
 
 1. Fork it ( https://github.com/MatthewBennington/BenningtonWebsite/fork )
