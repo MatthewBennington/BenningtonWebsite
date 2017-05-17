@@ -2,7 +2,7 @@ require "./BenningtonWebsite/*"
 require "kemal"
 
 get "/" do
-	if Time.now.month === (5..10)
+	if (5..10).includes? Time.now.month
 		next_term = "Fall#{Time.now.year}"
 	else
 		next_term = "Spring#{Time.now.year + 1}"
