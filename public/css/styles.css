@@ -1,0 +1,24 @@
+html {
+	color: #383838;
+	font-family: "Helvetica", sans-serif;
+	-webkit-font-smoothing: antialiased;
+}
+
+body {
+	background: #faf7ee;
+	font-size: 15px;
+	line-height: 1.4667;
+	margin: 0px;
+	padding-left: 40px;
+}
+
+a:link,
+a:visited {
+	color: #b58900;
+	text-decoration: none;
+	transition: background-color .15s linear, color .15s linear;
+}
+
+a:hover { 
+    color: #3c3c3b; 
+}
