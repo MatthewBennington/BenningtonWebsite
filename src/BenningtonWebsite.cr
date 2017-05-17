@@ -11,4 +11,10 @@ get "/" do
 	render "src/views/index.html.ecr"
 end
 
+get "/map.pdf" do |env|
+	# TODO Figure out why this isn't working, there is a post up on SO.
+	env.response.headers["Content-Type"] = "application/pdf"
+	env.response.headers["Content-Disposition"] = %(inline;filename="myfile.pdf")
+end
+
 Kemal.run

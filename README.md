@@ -15,14 +15,14 @@ TODO: Write usage instructions here
 ### Things a college website needs:
 
 - [x] Full name of the school
-- [ ] List of faculty emails and phone numbers
+- [x] List of faculty emails and phone numbers
 - [x] Campus address
 - [x] Application forms
 - [x] Academic calender
 - [x] Campo phone number
 - [x] Department/course lists
-- [ ] Parking information
-- [ ] Campus map
+- [x] Parking information
+- [x] Campus map
 
 ### Things bennington.works attempts to provide
 
