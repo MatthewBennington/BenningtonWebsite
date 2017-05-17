@@ -14,13 +14,13 @@ TODO: Write usage instructions here
 
 ### Things a college website needs:
 
-- [ ] Full name of the school
+- [x] Full name of the school
 - [ ] List of faculty emails and phone numbers
-- [ ] Campus address
-- [ ] Application forms
-- [ ] Academic calender
-- [ ] Campo phone number
-- [ ] Department/course lists
+- [x] Campus address
+- [x] Application forms
+- [x] Academic calender
+- [x] Campo phone number
+- [x] Department/course lists
 - [ ] Parking information
 - [ ] Campus map
 
@@ -37,7 +37,7 @@ TODO: Write usage instructions here
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/BenningtonWebsite/fork )
+1. Fork it ( https://github.com/MatthewBennington/BenningtonWebsite/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
