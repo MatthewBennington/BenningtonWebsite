@@ -41,6 +41,7 @@ TODO: Write usage instructions here
 - [ ] "that page that shows how many spots are in each class and whats left available"
 - [ ] _correct_ faculty offices
 - [ ] Link to website to fill up your card
+- [ ] How to enter a class in wordpress (for faculty)
 
 ## Contributing
 
