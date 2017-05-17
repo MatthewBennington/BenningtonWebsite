@@ -26,13 +26,13 @@ TODO: Write usage instructions here
 
 ### Things bennington.works attempts to provide
 
-- [ ] link to populi
-- [ ] link to moodle
-- [ ] Academic concern form
+- [x] link to populi
+- [x] link to moodle
+- [x] Academic concern form
 - [ ] Registration expemption form (plan exception) (link changes each term)
-- [ ] Change of advisor form
-- [ ] Add/drop/withdrawal forms
-- [ ] Credit waiver form
+- [x] Change of advisor form
+- [x] Add/drop/withdrawal forms
+- [x] Credit waiver form
 - [ ] Disability accommodation form
 
 ### Things the site should have
